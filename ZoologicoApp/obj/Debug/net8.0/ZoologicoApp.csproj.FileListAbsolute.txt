@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\bin\Debug\net8.0\ZoologicoApp.exe
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\bin\Debug\net8.0\ZoologicoApp.deps.json
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\bin\Debug\net8.0\ZoologicoApp.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\bin\Debug\net8.0\ZoologicoApp.dll
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\bin\Debug\net8.0\ZoologicoApp.pdb
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.dll
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\refint\ZoologicoApp.dll
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.pdb
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ZoologicoApp.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\ZoologicoApp\ZoologicoApp\obj\Debug\net8.0\ref\ZoologicoApp.dll

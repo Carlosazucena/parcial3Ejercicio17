@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\source\\repos\\ZoologicoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C76A987-020E-4ABB-B075-DF9E92B227B4}|ZoologicoApp\\ZoologicoApp.csproj|c:\\users\\mineducyt\\source\\repos\\zoologicoapp\\zoologicoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C76A987-020E-4ABB-B075-DF9E92B227B4}|ZoologicoApp\\ZoologicoApp.csproj|solutionrelative:zoologicoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\ZoologicoApp\\ZoologicoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ZoologicoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\ZoologicoApp\\ZoologicoApp\\Program.cs",
+              "RelativeToolTip": "ZoologicoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:55:26.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

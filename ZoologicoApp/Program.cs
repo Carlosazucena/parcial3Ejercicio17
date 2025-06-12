@@ -38,7 +38,7 @@ public class Mamifero : Animal
     }
 }
 
-// Clase Ave
+
 public class Ave : Animal
 {
     public Ave(string nombre, int edad, string especie)
@@ -55,7 +55,7 @@ public class Ave : Animal
     }
 }
 
-// Clase Reptil
+
 public class Reptil : Animal
 {
     public Reptil(string nombre, int edad, string especie)

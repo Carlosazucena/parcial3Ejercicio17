@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZoologicoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a42d20053577a5c8febd944c0ec7564f6a0976f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZoologicoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZoologicoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

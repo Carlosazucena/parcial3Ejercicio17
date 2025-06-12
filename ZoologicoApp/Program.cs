@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
+//clase que representa animal
 public class Animal
 {
     public string Nombre { get; set; }
@@ -21,7 +21,7 @@ public class Animal
     }
 }
 
-
+// Clase mamifero que hereda de Animal
 public class Mamifero : Animal
 {
     public Mamifero(string nombre, int edad, string especie)
@@ -39,6 +39,7 @@ public class Mamifero : Animal
 }
 
 
+// Clase ave que hereda de Animal
 public class Ave : Animal
 {
     public Ave(string nombre, int edad, string especie)
@@ -55,7 +56,7 @@ public class Ave : Animal
     }
 }
 
-
+// Clase reptil que hereda de Animal
 public class Reptil : Animal
 {
     public Reptil(string nombre, int edad, string especie)
@@ -72,7 +73,7 @@ public class Reptil : Animal
     }
 }
 
-
+// Clase que representa el zoológico y gestiona una lista de animales
 public class Zoologico
 {
     private List<Animal> animales = new List<Animal>();
@@ -82,7 +83,7 @@ public class Zoologico
         animales.Add(animal);
         Console.WriteLine($" Se agregó {animal.Nombre} al zoológico.");
     }
-
+   // Método para mostrar todos los animales y sus comportamientos
     public void MostrarAnimales()
     {
         Console.WriteLine("\n Animales en el zoológico:\n");
@@ -103,7 +104,7 @@ public class Zoologico
         }
     }
 }
-
+// Clase principal que contiene el método Main
 class Program
 {
     static void Main(string[] args)
